@@ -1,6 +1,6 @@
 class helloworld {
      
-     notify { 'hello, world!': }
+     notify { 'hello, world!, Welcome to Puppet Enterprise!': }
 }
 
 
